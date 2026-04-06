@@ -1,0 +1,25 @@
+{
+  "name": "faytek-starter-backend",
+  "version": "1.0.0",
+  "description": "Faytek Starter Backend — basé sur l'architecture BuyFlow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.10.1",
+    "nodemon": "^3.1.9",
+    "xlsx": "^0.18.5"
+  }
+}
