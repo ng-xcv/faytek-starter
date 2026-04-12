@@ -1,17 +1,39 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
+const helmet = require('helmet');
 const session = require('express-session');
+const cookieParser = require('cookie-parser');
 const mongoose = require('mongoose');
+const path = require('path');
+const { verifyToken } = require('./middleware/verifyToken');
 
+// ─── ENVIRONMENT CHECK (fail-fast) ─────────────────────────────────────────
+// Crash immédiat si une variable critique est manquante : on n'autorise plus
+// aucun secret par défaut hardcodé en cas d'oubli de déploiement.
+const REQUIRED_ENV = ['JWT_SECRET', 'JWT_REFRESH_SECRET', 'SESSION_SECRET', 'MONGO_URI'];
+const missing = REQUIRED_ENV.filter((k) => !process.env[k]);
+if (missing.length) {
+  // eslint-disable-next-line no-console
+  console.error(`[FATAL] Variables d'environnement manquantes : ${missing.join(', ')}`);
+  process.exit(1);
+}
+
+const isProd = process.env.NODE_ENV === 'production';
 const app = express();
+
+// ─── SECURITY HEADERS (helmet) ─────────────────────────────────────────────
+app.use(helmet());
 
 // ─── CORS ──────────────────────────────────────────────────────────────────
 const whitelist = [
   'http://localhost:5173',
+  'http://localhost:5174',
   'http://localhost:3000',
   'http://localhost:4173',
   process.env.FRONTEND_URL,
+  process.env.CLIENT_URL,
+  process.env.DASHBOARD_URL,
 ].filter(Boolean);
 
 const corsOptions = {
@@ -22,28 +44,33 @@ const corsOptions = {
       callback(new Error('Not allowed by CORS'));
     }
   },
+  // credentials: true → indispensable pour que le navigateur envoie les cookies httpOnly
   credentials: true,
 };
 
+// Express 5 + path-to-regexp v8 : le wildcard '*' n'est plus accepté.
+// Le middleware cors() répond automatiquement aux preflight OPTIONS,
+// inutile de déclarer une route OPTIONS dédiée.
 app.use(cors(corsOptions));
-app.options('*', cors(corsOptions));
 
-// ─── BODY PARSERS ──────────────────────────────────────────────────────────
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+// ─── BODY / COOKIE PARSERS ─────────────────────────────────────────────────
+app.use(express.json({ limit: '1mb' }));
+app.use(express.urlencoded({ extended: true, limit: '1mb' }));
+app.use(cookieParser());
 
 // ─── SESSION ───────────────────────────────────────────────────────────────
 app.use(
   session({
-    secret: process.env.SESSION_SECRET || 'faytek-secret',
+    secret: process.env.SESSION_SECRET,
     resave: false,
     saveUninitialized: false,
-    cookie: { secure: process.env.NODE_ENV === 'production' },
+    cookie: {
+      httpOnly: true,
+      secure: isProd,
+      sameSite: isProd ? 'strict' : 'lax',
+    },
   })
 );
-
-// ─── STATIC FILES ──────────────────────────────────────────────────────────
-app.use('/uploads', express.static('uploads'));
 
 // ─── LAZY MONGODB CONNECTION (Vercel serverless) ───────────────────────────
 let isConnected = false;
@@ -51,10 +78,8 @@ let isConnected = false;
 const connectDB = async () => {
   if (isConnected) return;
   try {
-    await mongoose.connect(process.env.MONGO_URI, {
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
-    });
+    // Mongoose 9 : useNewUrlParser et useUnifiedTopology sont supprimés.
+    await mongoose.connect(process.env.MONGO_URI);
     isConnected = true;
     console.log('MongoDB connected');
   } catch (err) {
@@ -80,16 +105,40 @@ app.get('/', (req, res) => {
 // ─── ROUTES ────────────────────────────────────────────────────────────────
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/user', require('./routes/user'));
+app.use('/api/profil', require('./routes/profil'));
+app.use('/api/non-conformite', require('./routes/nonConformite'));
+app.use('/api/settings', require('./routes/settings'));
+
+// ─── PROTECTED STATIC UPLOADS ──────────────────────────────────────────────
+// Les fichiers uploadés (avatars, documents) ne sont accessibles qu'avec un
+// token valide. Évite que n'importe qui puisse récupérer une image par URL.
+app.use(
+  '/uploads',
+  verifyToken,
+  express.static(path.join(__dirname, 'uploads'), {
+    // On désactive l'index pour éviter l'énumération de répertoire
+    index: false,
+    dotfiles: 'deny',
+  })
+);
 
 // ─── 404 HANDLER ───────────────────────────────────────────────────────────
 app.use((req, res) => {
   res.status(404).json({ message: 'Route not found' });
 });
 
-// ─── ERROR HANDLER ─────────────────────────────────────────────────────────
+// ─── ERROR HANDLER (masquage stack en prod) ────────────────────────────────
+// eslint-disable-next-line no-unused-vars
 app.use((err, req, res, next) => {
   console.error(err.stack);
-  res.status(500).json({ message: err.message || 'Internal server error' });
+  const status = err.status || 500;
+  // En production : message générique. En dev : on expose pour debug.
+  const message = isProd
+    ? status >= 500
+      ? 'Erreur serveur interne'
+      : err.message || 'Erreur'
+    : err.message || 'Internal server error';
+  res.status(status).json({ message });
 });
 
 // ─── START (dev only) ──────────────────────────────────────────────────────

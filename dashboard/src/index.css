@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1B4B8A;
+  --color-primary-light: #2563a8;
+  --color-primary-dark: #133766;
+  --color-primary-50: #eff5ff;
+  --color-primary-100: #dae8ff;
+  --color-primary-200: #bdd7ff;
+  --color-primary-300: #90beff;
+  --color-primary-400: #5c9bfc;
+  --color-primary-500: #3674f8;
+  --color-primary-600: #1B4B8A;
+  --color-primary-700: #1a44ed;
+  --color-primary-800: #1c37c0;
+  --color-primary-900: #1d3397;
+  --color-secondary: #7AB929;
+  --color-secondary-light: #8ecf3a;
+  --color-secondary-dark: #5f9120;
+  --color-accent: #f59e0b;
+  --color-danger: #ef4444;
+  --color-success: #22c55e;
+  --color-warning: #f59e0b;
+  --color-info: #3b82f6;
+  --color-surface: #f8fafc;
+  --color-surface-dark: #0f172a;
+  --color-card: #ffffff;
+  --color-card-dark: #1e293b;
+  --color-muted: #64748b;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --radius-lg: 1rem;
+  --radius-md: 0.75rem;
+  --radius-sm: 0.5rem;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: var(--color-surface);
+    color: #1e293b;
+    min-height: 100vh;
+  }
+
+  #root {
+    min-height: 100vh;
+  }
+}

@@ -1,55 +1,66 @@
+/**
+ * Script de seed : crée les 3 profils par défaut.
+ * Usage : cd backend && node scripts/seedProfils.js
+ */
 require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
 const mongoose = require('mongoose');
 const Profil = require('../models/Profil');
 
-const profils = [
+const SEED_DATA = [
   {
-    libelle: 'Admin',
-    isDefault: true,
+    nom: 'Administrateur',
+    description: 'Accès total à toutes les fonctionnalités',
+    isAdmin: true,
+    actif: true,
+  },
+  {
+    nom: 'Gestionnaire',
+    description: 'Gestion complète des non-conformités',
+    isAdmin: false,
+    actif: true,
     permissions: {
-      admin: true,
-      user: { read: true, create: true, update: true, delete: true },
-      profil: { read: true, create: true, update: true, delete: true },
+      users: { voirListe: true, voir: true },
+      profils: { voirListe: true, voir: true },
+      nonConformites: { voirListe: true, voir: true, creer: true, modifier: true, supprimer: true, valider: true, exporter: true },
+      settings: { voirListe: true, voir: true },
     },
   },
   {
-    libelle: 'Demandeur',
-    isDefault: false,
+    nom: 'Consultant',
+    description: 'Consultation et export uniquement',
+    isAdmin: false,
+    actif: true,
     permissions: {
-      user: { read: true, create: false, update: false, delete: false },
-    },
-  },
-  {
-    libelle: 'Validateur',
-    isDefault: false,
-    permissions: {
-      user: { read: true, create: false, update: true, delete: false },
+      users: { voirListe: true, voir: true },
+      profils: { voirListe: true, voir: true },
+      nonConformites: { voirListe: true, voir: true, exporter: true },
+      settings: { voirListe: true, voir: true },
     },
   },
 ];
 
-const seed = async () => {
+async function seed() {
   try {
     await mongoose.connect(process.env.MONGO_URI);
-    console.log('MongoDB connected');
+    console.log('MongoDB connecté');
 
-    for (const profilData of profils) {
-      const exists = await Profil.findOne({ libelle: profilData.libelle });
-      if (!exists) {
-        await Profil.create(profilData);
-        console.log(`✓ Profil "${profilData.libelle}" créé`);
+    for (const data of SEED_DATA) {
+      const exists = await Profil.findOne({ nom: data.nom });
+      if (exists) {
+        console.log(`  ⏭ Profil "${data.nom}" existe déjà`);
       } else {
-        console.log(`→ Profil "${profilData.libelle}" existe déjà`);
+        await Profil.create(data);
+        console.log(`  ✅ Profil "${data.nom}" créé`);
       }
     }
 
-    console.log('Seed terminé');
+    console.log('\nSeed terminé');
   } catch (err) {
-    console.error('Erreur:', err.message);
+    console.error('Erreur seed:', err.message);
   } finally {
     await mongoose.disconnect();
     process.exit(0);
   }
-};
+}
 
 seed();

@@ -9,17 +9,21 @@
   },
   "dependencies": {
     "axios": "^1.9.0",
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.9.0",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
-    "crypto-js": "^4.2.0",
     "dotenv": "^16.5.0",
-    "express": "^4.21.2",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "express-rate-limit": "^7.4.1",
     "express-session": "^1.18.1",
+    "helmet": "^8.1.0",
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.13.2",
-    "multer": "^1.4.5-lts.1",
-    "nodemailer": "^6.10.1",
-    "nodemon": "^3.1.9",
-    "xlsx": "^0.18.5"
+    "mongoose": "^9.4.1",
+    "multer": "^2.1.1",
+    "nodemailer": "^8.0.5",
+    "nodemon": "^3.1.9"
   }
 }

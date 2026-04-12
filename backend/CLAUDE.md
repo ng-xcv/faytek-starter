@@ -10,15 +10,19 @@
 | Package | Version | Rôle |
 |---|---|---|
 | Node.js | ≥ 22.x | Runtime |
-| Express | ^4.21.x | Framework HTTP |
-| Mongoose | ^8.x | ODM MongoDB Atlas |
+| Express | ^5.2.x | Framework HTTP |
+| Mongoose | ^9.x | ODM MongoDB Atlas |
 | jsonwebtoken | ^9.0.x | JWT tokens |
+| bcrypt | ^6.x | Hash mots de passe |
+| helmet | ^8.1.x | Headers HTTP de sécurité |
+| express-rate-limit | ^7.x | Rate limiting (anti brute-force) |
+| cookie-parser | ^1.4.x | Parsing cookies httpOnly |
 | Joi | ^17.x | Validation entrées |
-| Multer | ^1.4.x | Upload fichiers |
+| Multer | ^2.1.x | Upload fichiers |
 | dotenv | ^16.x | Variables d'environnement |
-| cors | ^2.8.x | Gestion CORS |
-| express-session | ^1.17.x | Sessions |
-| nodemailer | ^6.x | Emails |
+| cors | ^2.8.x | Gestion CORS (credentials: true) |
+| express-session | ^1.18.x | Sessions |
+| nodemailer | ^7.x | Emails |
 | xlsx | ^0.18.x | Import/Export Excel |
 | nodemon | ^3.x | Dev (hot-reload) |
 
@@ -105,14 +109,17 @@ backend/
 
 ## Authentification
 
-BuyFlow utilise **JWT stocké côté client dans localStorage** (pas de httpOnly cookie).
+Faytek Starter utilise **JWT en cookies httpOnly** (access 15 min + refresh 7 j) avec rotation des refresh tokens. Aucun token n'est exposé au JavaScript du navigateur → immunité contre XSS.
 
 ### Comment ça fonctionne
-1. L'utilisateur envoie `POST /api/auth/login` avec `{ email, password }`
-2. Le backend vérifie le mot de passe (hashé avec `crypto-js`)
-3. Il retourne `{ accessToken, user }` 
-4. Le frontend stocke l'`accessToken` dans `localStorage`
-5. Chaque requête suivante envoie le token dans le header `token: Bearer <jwt>`
+
+1. L'utilisateur envoie `POST /api/auth/login` avec `{ email, password }` (rate-limit : 10 essais / 15 min / IP)
+2. Le backend vérifie le mot de passe avec **bcrypt** (`user.comparePassword`)
+3. Il pose deux cookies httpOnly : `accessToken` (15 min, path `/`) et `refreshToken` (7 j, path `/api/auth`)
+4. Le hash SHA-256 du refresh token est persisté en DB (`User.refreshTokenHash`) pour permettre la rotation/révocation
+5. Chaque requête suivante envoie automatiquement les cookies (frontend `axios` avec `withCredentials: true`)
+6. Sur 401, l'intercepteur axios appelle `POST /api/auth/refresh` puis rejoue la requête. Si le refresh échoue → redirect login.
+7. `POST /api/auth/logout` efface les cookies et le hash en DB
 
 ### Protéger une route
 ```js
@@ -162,18 +169,21 @@ router.post('/', verifyToken, async (req, res) => {
 
 ## Variables d'Environnement
 
-| Variable | Description | Exemple |
+> ⚠️ **Les variables marquées OBLIGATOIRE font crasher le serveur si absentes.** Pas de fallback hardcodé.
+
+| Variable | Obligatoire | Description |
 |---|---|---|
-| `PORT` | Port d'écoute local | `5000` |
-| `URI` | URI MongoDB Atlas | `mongodb+srv://...` |
-| `JWT_SECRET` | Clé secrète JWT utilisateurs | `secret-fort-2026!` |
-| `JWT_CLIENT_SECRET` | Clé JWT portail clients DI | `client-secret-2026!` |
-| `PASSWORD_SECRET` | Clé hash mots de passe (crypto-js) | `pass-secret-2026!` |
-| `SESSION_SECRET` | Clé express-session | `session-secret-2026!` |
-| `SMTP_USER` | Email d'envoi (SMTP Gmail) | `app@example.com` |
-| `SMTP_PASSWORD` | Mot de passe app Gmail | `xxxx xxxx xxxx xxxx` |
-| `FRONTEND_URL` | URL du frontend (CORS) | `https://app.example.com` |
-| `CLIENT_URL` | URL alternative frontend | `https://www.app.example.com` |
+| `PORT` | non | Port d'écoute local (défaut 5000) |
+| `NODE_ENV` | non | `development` / `production` |
+| `MONGO_URI` | **oui** | URI de connexion MongoDB Atlas |
+| `JWT_SECRET` | **oui** | Clé access token (15 min) — `openssl rand -base64 64` |
+| `JWT_REFRESH_SECRET` | **oui** | Clé refresh token (7 j) — DOIT être différente de `JWT_SECRET` |
+| `SESSION_SECRET` | **oui** | Clé express-session |
+| `JWT_CLIENT_SECRET` | non | Clé JWT portail clients DI (si module DI) |
+| `SMTP_USER` | non | Email d'envoi (SMTP Gmail) |
+| `SMTP_PASSWORD` | non | Mot de passe d'application Gmail |
+| `FRONTEND_URL` | non | URL du frontend (ajoutée à la whitelist CORS) |
+| `CLIENT_URL` | non | URL alternative frontend |
 
 ---
 
@@ -271,11 +281,18 @@ npm start        # Production (node index.js)
 
 1. **Pas de dossier `controllers/`** — la logique est dans `routes/` directement
 2. **Connexion MongoDB lazy** pour Vercel serverless — ne jamais appeler `mongoose.connect()` en dehors du middleware ou du bloc local
-3. **Header `token`** (pas `Authorization`) pour le JWT côté frontend — le middleware accepte les deux mais le frontend envoie `token: Bearer <jwt>`
-4. **Hash mot de passe** = `crypto-js` (pas bcrypt) — ne pas changer sans migration des données
-5. **Multer** est configuré par route, pas globalement
-6. **Joi** est obligatoire pour toute route POST/PUT — ne jamais accéder à `req.body` sans validation
-7. **`vercel.json`** doit exister pour le déploiement serverless — ne pas supprimer
-8. **`module.exports = app`** en bas de `index.js` — requis pour Vercel
-9. **Les timestamps** (`createdAt`, `updatedAt`) sont activés sur tous les modèles via `{ timestamps: true }`
-10. **`populate('profil')`** est systématique sur les queries User qui ont besoin des permissions
+3. **Auth = cookies httpOnly** (pas `localStorage`). Le middleware `verifyToken` lit `req.cookies.accessToken` en priorité, avec fallback header `token`/`Authorization` pour rétrocompatibilité (clients non-navigateur uniquement)
+4. **Hash mot de passe = bcrypt (cost 12)** via le hook `pre('save')` du modèle `User`. Le champ `password` est `select: false` → utiliser `.select('+password')` quand nécessaire
+5. **`select: false` aussi sur `refreshTokenHash`** — toujours l'exclure des réponses API
+6. **Multer** est configuré par route, pas globalement
+7. **Joi** est obligatoire pour toute route POST/PUT — ne jamais accéder à `req.body` sans validation
+8. **`mongoose.Types.ObjectId.isValid()`** obligatoire avant tout `findById(req.params.id)` — utiliser le middleware `validateObjectId` du pattern
+9. **`verifyAdmin` obligatoire** sur les routes POST/PUT/DELETE qui touchent à des données sensibles (users, profils, etc.)
+10. **Variables d'environnement OBLIGATOIRES** : le serveur crash au boot si `JWT_SECRET`, `JWT_REFRESH_SECRET`, `SESSION_SECRET`, `MONGO_URI` sont absentes. **Aucun fallback hardcodé**.
+11. **`/uploads` est protégé par `verifyToken`** — un fichier uploadé n'est jamais public
+12. **En production, l'error handler masque le `err.message`** (5xx → message générique) — ne pas inverser ce comportement
+13. **Le rate-limit sur `/api/auth/login`** est de 10 essais / 15 min / IP — adapter `loginLimiter` dans `routes/auth.js` si besoin
+14. **`vercel.json`** doit exister pour le déploiement serverless — ne pas supprimer
+15. **`module.exports = app`** en bas de `index.js` — requis pour Vercel
+16. **Les timestamps** (`createdAt`, `updatedAt`) sont activés sur tous les modèles via `{ timestamps: true }`
+17. **`populate('profil')`** est systématique sur les queries User qui ont besoin des permissions
