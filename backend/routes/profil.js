@@ -112,20 +112,21 @@ router.post('/seed', verifyToken, verifyAdmin, async (req, res, next) => {
   try {
     const defaults = [
       {
-        nom: 'Administrateur',
+        nom: 'Admin',
         description: 'Accès total à toutes les fonctionnalités',
         isAdmin: true,
         actif: true,
       },
       {
-        nom: 'Gestionnaire',
-        description: 'Gestion complète des non-conformités',
+        nom: 'Responsable Qualité',
+        description: 'Gestion complète des non-conformités et processus',
         isAdmin: false,
         actif: true,
         permissions: {
-          users: { voirListe: true, voir: true },
-          profils: { voirListe: true, voir: true },
-          nonConformites: { voirListe: true, voir: true, creer: true, modifier: true, supprimer: true, valider: true, exporter: true },
+          nc: { voir: true, creer: true, modifier: true, supprimer: true, valider: true, voirTout: true, exporter: true, voirTableauDeBord: true },
+          process: { voir: true, creer: true, modifier: true, supprimer: true },
+          pa: { voir: true, creer: true, modifier: true, valider: true, voirTout: true, voirTableauDeBord: true },
+          admin: { gererParams: true },
         },
       },
       {
@@ -134,9 +135,9 @@ router.post('/seed', verifyToken, verifyAdmin, async (req, res, next) => {
         isAdmin: false,
         actif: true,
         permissions: {
-          users: { voirListe: true, voir: true },
-          profils: { voirListe: true, voir: true },
-          nonConformites: { voirListe: true, voir: true, exporter: true },
+          nc: { voir: true, voirTout: true, exporter: true, voirTableauDeBord: true },
+          process: { voir: true },
+          pa: { voir: true, voirTout: true },
         },
       },
     ];

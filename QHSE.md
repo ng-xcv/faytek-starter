@@ -9,7 +9,7 @@
 cd backend
 npm install
 cp .env.example .env   # Configurer les variables
-npm run dev            # http://localhost:5000
+npm run dev            # http://localhost:5001
 ```
 
 ### Frontend

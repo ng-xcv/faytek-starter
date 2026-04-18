@@ -1,0 +1,2898 @@
+{
+ "iso9001": [
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l'organisme et de son contexte",
+   "q": "Les enjeux internes et externes relatifs à l'entreprise sont-ils identifiés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l'organisme et de son contexte",
+   "q": "Les informations relatives à ces enjeux internes et externes sont-ils surveillés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l'organisme et de son contexte",
+   "q": "Ces enjeux sont-ils pris en compte dans le système qualité ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des parties intéressées",
+   "q": "Les parties intéressées pertinentes sont-elles identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des parties intéressées",
+   "q": "Les exigences des parties intéressées sont-elles identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des parties intéressées",
+   "q": "Les exigences des parties intéressées sont-elles surveillées et revues ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du domaine d'application du système de management de la qualité",
+   "q": "Le domaine d'application du SMQ est-il déterminé ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du domaine d'application du système de management de la qualité",
+   "q": "Le domaine d'application est-il disponible sous une forme documentée ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les processus ont-ils été identifiés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les données d'entrées et de sorties de ces processus ont-elles été identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les séquences et les interactions de ces processus ont-elles été identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les critères et les méthodes pour assurer l'efficacité de ces processus ont-ils été déterminé ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les ressources nécessaires à ces processus sont-elles identifiées et à disposition ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les responsabilités ont-elles été définies ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les risques et opportunités liés à ces processus ont été pris en compte, des actions appropriées sont planifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Ces processus sont évalués, mesurés et analysés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Des actions sont mises en œuvre si les processus ne produisent pas les résultats attendus ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 SMQ et ses processus",
+   "q": "Les informations relatives à ces processus sont documentées?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction assume et démontre sa responsabilité et son engagement dans l'efficacité du SMQ ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La politique et les objectifs qualité sont-ils établis et formalisés ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction promouvoit-elle l'approche processus et l'approche par les risques ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure-t-elle de la disponibilité des ressources nécessaires au SMQ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction communique t-elle sur l'importance de disposer un système efficace et de se conformer aux exigences  et incite-elle les personnes à contribuer à son efficacité ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure-t-elle que le SMQ atteint les résultats attendus?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction promouvoit-elle l'amélioration ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction soutient-elle les autres personnes ayant un rôle pertinent dans le système, afin de démonter leurs responsabilités ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction démontre t-elle son engagement relatif à l'engagement client ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "Les exigences des clients sont-elles déterminées et respectées ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "Les risques et opportunités ayant une incidence sur la conformité des produits et services sont-ils déterminés et pris en compte ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique qualité est-elle adaptée à la finalité de l'organisme ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique est-elle établit, revue et mise à jour régulièrement par la direction ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique qualité prend-t-elle en compte les exigences réglementaires, légales et celles des clients?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique qualité définit-elle un cadre aux objectifs qualité ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique qualité comprend-elle l'engagement à satisfaire aux exigences et à améliorer en permanence l'efficacité du SMQ ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique qualité est-elle communiquée au sein de l'organisme ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique qualité est-elle mise à disposition des parties intéressées ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l'organisme",
+   "q": "Les responsabilités et autorités de tous les individus de votre organisme sont-elles clairement formalisées et communiquées au sein de l'organisme ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l'organisme",
+   "q": "Un responsable a-t-il été nommé par la direction pour rendre compte de la performance du SMQ et des opportunités d'amélioration à la direction ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l'organisme",
+   "q": "Un responsable a-t-il été nommé par la direction pour assurer la sensibilisation aux exigences du client et promovoir l'orientation client dans tout l'organisme ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l'organisme",
+   "q": "Un responsable a-t-il été nommé par la direction pour assurer suivi du SMQ ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les risques et opportunités pour votre organisme sont-ils déterminés ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "La planification du SMQ prend elle en compte les risques et opportunités ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Des actions sont-elles mises en œuvre face aux risques et opportunités ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "L'efficacité de ces actions est-elle mesurée ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs qualité et planification des actions pour les atteindre",
+   "q": "Vos objectifs qualité sont-ils en adéquation permanente avec la politique qualité de l'organisme?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs qualité et planification des actions pour les atteindre",
+   "q": "Vos objectifs qualité sont-ils adaptés à la finalité de l'organisme?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs qualité et planification des actions pour les atteindre",
+   "q": "Vos objectifs qualité sont-ils mesurables ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs qualité et planification des actions pour les atteindre",
+   "q": "Vos objectifs tiennent-ils compte des exigences applicables ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs qualité et planification des actions pour les atteindre",
+   "q": "Vos objectifs qualité sont-ils communiqués et tenus à jour autant que nécessaire ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs qualité et planification des actions pour les atteindre",
+   "q": "Les modalités (pilote, ressources nécessaires, responsable, échéance, évaluation des résultats) pour surveiller l'atteinte des objectifs sont-elles définies ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.3 Planification des modifications",
+   "q": "Les modifications du SMQ sont-elles planifiées ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.3 Planification des modifications",
+   "q": "L'objectif de toute modification est pris en compte ainsi que toutes les conséquences en lien possible ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.3 Planification des modifications",
+   "q": "Les modifications du SMQ prennent-elles en compte les disponibilités des ressources et l'attribution des responsabilités ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "La direction assure-t-elle la disponibilité des ressources nécessaires au SMQ, à son amélioration continue et à l'accroissement de la satisfaction des clients?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Les ressources nécessaires prennent-elles en compte les contraintes des ressources internes existantes ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Les ressources à se procurer en externe sont-elles identifiées ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Les ressources humaines nécessaires à la mise en œuvre du SMQ sont-elles dentifiées et mises en œuvre ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "La direction a-t-elle déterminée et fourni les infrastructures et services supports nécessaires à l'obtention de la conformité des produits/ services ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "La direction entretient-elle ces infrastructures?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "L'environnement de travail nécessaire pour obtenir la conformité du produit est il géré et surveillé par la Direction ? (conditions physiques, environnementales, ergonomiques, psychologiques…)"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Les ressources nécessaires sont déterminées et fournies pour assurer des résultats de surveillance et de mesure fiables des produits/ services ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Les informations documentées concernant l'adéquation des ressources pour la surveillance et la mesure sont conservées ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Vos instruments de mesures sont étalonnés, identifiés et protégés ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Lorsque de tels étalons n'existent pas vous conservez sous forme d'information documentée la référence utilisée pour l'étalonnage ou la vérification ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Lorsqu'un instrument s'avère défectueux, vous déterminez si la validité des résultats de mesure antérieurs a été compromise et vous menez l'action corrective appropriée, si nécessaire ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Les connaissances nécessaires à la mise en œuvre des ses processus et à l'obtention de la conformité des produits sont déterminées ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "La direction identifie-t-il les compétences nécessaires en personnel dont le travail a une incidence sur le SMQ ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "La direction pourvoit-elle les besoins en formation des membres du personnel dont le travail a une incidence sur le SMQ ? (acquisition des compétences nécessaires)"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Un indicateur a-t-il été mis en place pour évaluer/mesurer l'efficacité des actions entreprises dans le domaine de la gestion des compétences, sensibilisation, formation?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "La direction assure-t-elle que le personnel est conscient de la pertinence et de l'importance de leurs activités et de la manière dont ils contribuent à la réalisation des objectifs qualité?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Rédigez-vous et conservez-vous des enregistrements décrivant les compétences de votre personnel? (formation initiale et professionnelle, savoir-faire, expérience)"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation",
+   "q": "Le personnel est-il sensibilisé à la politique qualité et à ses objectifs ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation",
+   "q": "Le personnel est-il conscient de l'importance de sa contribution à l'efficacité du SMQ, y compris à l'amélioration de ses performances ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation",
+   "q": "Vous assurez-vous que le personnel est conscient de la pertinence, de l'importance de leurs activités, des implications des non-conformités ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Les besoins de communication interne et externe sont ils déterminés, leurs modalités sont-elles définies ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Information documentée",
+   "q": "Votre SMQ inclut-il les informations documentées exigées par la norme  et celles que vous avez jugé nécessaires ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Information documentée",
+   "q": "Les informations documentées sont-elles disponibles, identifiables, conviennent-elles à l'utilisation prévue  et protégées (perte de confidentialité, utilisation inappropriée …)?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Information documentée",
+   "q": "Les informations documentaires sont elles approuvées ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Information documentée",
+   "q": "Des activités sont-elles mises en œuvre pour maîtriser les informations documentées (distribution, accès, stockage, conservation …) ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Information documentée",
+   "q": "Les informations documentées d'origine extérieure sont-elles identifiées ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Information documentée",
+   "q": "Les informations documentées conservées comme preuves de conformité sont-elles protégées de toute altération involontaire ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les processus nécessaires à la réalisation du produit sont-ils développées et planifiés ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "La planification et la réalisation des produits prend elle compte les exigences relatives aux produits/ services ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les critères d'acceptation des produits/ services ont-ils définis ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les ressources nécessaires  à la réalisation du produit/service ont-elles été planifiées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les informations documentées sont-elles conservées pour assurer que les processus ont été réalisé comme prévu et pour démontrer la conformité des produits et services aux exigences applicables ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les modifications prévues sont-elles planifiées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les modifications non prévues sont-elles analysées, des actions sont-elles menées pour limiter tout effet négatif ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "Les exigences clients spécifiques relatives aux actions d'urgences ont-elles été déterminées par l'organisme ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "Prenez-vous des dispositions pour préserver la conformité du service et de ses composants depuis la réalisation jusqu'à la livraison à la destination prévue? (prendre soin de la propriété du client)"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "Communiquez-vous avec le client sur les retours d'information et les réclamations ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "Les exigences client formulées ou non (nécessaires à l'usage), ainsi que les exigences réglementaires et légales ont-elles été déterminées par l'organisme ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "Les revues des exigences relatives au produit/ service sont-elles réalisées régulièrement?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "L'organisme s'assure-t-il que les écarts entre les exigences d'un contrat ou d'une commande et celles précédemment exprimées ont été résolus ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "Existe-t-il des informations documentées prouvant les résultats des revues de produit et des actions qui en découlent?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "Existe-t-il des informations documentées prouvant que toute nouvelle exigence relative au produit/ service est documenté ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Exigences relatives aux produits et services",
+   "q": "En cas de modification des exigences des produits et services, vous vous assurez que les informations documentées correspondantes sont amendées et que le personnel concerné en est informé ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "La conception et le développement du produit/ service est-elle planifiées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les étapes de la conception et du développement, ainsi que les activités de revue et de validation ont-elles été déterminées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les interfaces entre les personnes impliquées en Conception et Développement sont-elles gérées ? (responsabilités et autorités)"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les besoins en ressources internes et externes sont-ils déterminées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les éléments d'entrées concernant les exigences relatives au produit/ service sont-ils déterminés et des enregistrements sont-ils conservés ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les éléments d'entrées comprennent-ils :\n- les exigences fonctionnelles et de performance\n- les informations de conceptions similaires précédentes \n- des exigences légales et réglementaires\n- des normes applicables ou règle interne de l'art\n- des conséquences d'une potentielle défaillance"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les résultats attendus des activités du processus de conception et développement sont maitrisés et des revues sont menées pour évaluer l'aptitude à l'atteinte de ces résultats ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Vérifiez-vous la conformité et/ou mesurez-vous les écarts entre les éléments de sortie et les exigences d'entrée de la C&D?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Des activités de validation sont-elles mises en œuvre pour s'assurer que les produits ou services satisfont aux exigences prévues avant sa mise en œuvre ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Lorsque les résultats ne sont pas atteints au moment des revues, vérification et validation, des actions sont mises en œuvre ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les informations documentées relatives au bon fonctionnement du processus de conception et développement sont conservés ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.3 Conception",
+   "q": "Les modifications sont-elles vérifiées et validées avant mise en œuvre ? Les informations sur ces modifications sont-elles conservées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.4 Maitrise des processus, produits et services fournis par des prestataires externes",
+   "q": "Des critères sont établis pour l'évaluation, la sélection, la surveillance des performances et la réévaluation des prestataires externes ? Ces informations sont conservées sous forme documentées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.4 Maitrise des processus, produits et services fournis par des prestataires externes",
+   "q": "Les risques de l'impact de l'externalisation des processus, produits et services sont-ils pris en compte ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.4 Maitrise des processus, produits et services fournis par des prestataires externes",
+   "q": "Des moyens sont-ils définis pour vérifier que le produit/ service fournit répond à vos exigences ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.4 Maitrise des processus, produits et services fournis par des prestataires externes",
+   "q": "La conformité des produits et services réalisés par des prestataires externes est-elle vérifiée ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.4 Maitrise des processus, produits et services fournis par des prestataires externes",
+   "q": "Communiquez-vous aux prestataires vos exigences ?  ( éléments à fournir, compétences, moyens de maitrise, vérification à réaliser)"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.5 Production et préparation de service",
+   "q": "Les activités de production et de prestation de service sont-elles planifiées et mises en œuvre dans des conditions maitrisées de la mise en œuvre des activités au service après livraison ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.5 Production et préparation de service",
+   "q": "Contrôlez-vous l'aptitude du processus de préparation des services attendus dont les éléments de sortie ne peuvent être vérifiés par une surveillance ou une mesure effectuée a posteriori, à atteindre les résultats planifiés?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.5 Production et préparation de service",
+   "q": "Les éléments de sortie sont-ils identifiés tout au long de la réalisation ? Cette identification est-elle maîtrisée ; ainsi que les enregistrements en lien ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.5 Production et préparation de service",
+   "q": "Prenez-vous des dispositions pour préserver la propriété du client ou du prestataires externe lorsqu'elle se trouve sous votre contrôle ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.6 Libération des produits et services",
+   "q": "La libération des produits et services au client est effectuée que si l'exécution est satisfaisante aux dispositions planifiées ; sauf approbation par une autorité compétente ou par le client ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.6 Libération des produits et services",
+   "q": "Les informations documentées concernant la libération sont conservées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.7 Maîtrise des éléments de sortie non conformes",
+   "q": "Les éléments de sortie des processus/ produits/ services qui ne satisfont pas aux exigences sont-ils identifiés et maitrisés afin d'empêcher leurs utilisations ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.7 Maîtrise des éléments de sortie non conformes",
+   "q": "Des actions sont-elles menées pour traiter ces éléments non-conformes  (correction, isolement, info client, dérogation ..) ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.7 Maîtrise des éléments de sortie non conformes",
+   "q": "Les informations documentées concernant la non-conformité et les actions menées sont-elles conservées ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Les activités de surveillance sont-elles définies et mises en œuvre ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Les résultats de cette surveillance sont-ils analysés et évalués ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Des informations documentées sont-elles conservées comme preuve des résultats de surveillance ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Surveillez-vous la perception du client sur le niveau de satisfaction de ces exigences ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "La surveillance de cette perception est-elle planifiée, des méthodes sont-elles définies ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des audits sont planifiés à intervalles réguliers ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les critères d'audit et le périmètre sont définis ; les auditeurs sélectionnés sont impartiaux et objectif sur le processus audité ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les résultats des audits sont communiqués à la direction et des actions sont mises en œuvre ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des informations documentées sont-elles conservées comme preuve de la mise en œuvre du programme d'audit et des résultats d'audit ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Vos revues de direction sont-elles planifiées et réalisées ? Elle prend en compte tous les éléments listés dans la norme ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Vos revues de direction prennent-elles en compte tous les éléments listés dans la norme ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Suite à la revue de direction des décisions et actions relatives aux opportunités d'amélioration et aux éventuels changements sont elles prises ?"
+  },
+  {
+   "chap": "Chap. 9 Evaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Les informations documentées des revues de direction sont-elles conservées ?"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.1 Généralités",
+   "q": "Des actions sont-elles menées pour satisfaire aux exigences des clients et accroître leurs satisfactions ?"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.2 Non-conformité et action corrective",
+   "q": "Réagissez-vous suite à l'appariation d'une non-conformité ou réclamation en client ? (maitrise, correction, mesure des conséquences)"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.2 Non-conformité et action corrective",
+   "q": "Les non-conformités/ réclamations client sont-elles analysées et évaluées ?"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.2 Non-conformité et action corrective",
+   "q": "Menez-vous des actions correctives pour éliminer les causes des non conformités détectées afin d'éviter qu'elles se reproduisent?"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.2 Non-conformité et action corrective",
+   "q": "L'efficacité des actions correctives est-elle mesurée ?"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.2 Non-conformité et action corrective",
+   "q": "Des informations documentées sont conservées comme preuve des non-conformités et des actions menées."
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.2 Non-conformité et action corrective",
+   "q": "Vous mettrez à jour les risques et opportunités déterminés durant la planification si cela est nécessaire ?"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.2 Non-conformité et action corrective",
+   "q": "Vous modifiez votre SMQ si cela est nécessaire ?"
+  },
+  {
+   "chap": "Chap.10 Amélioration",
+   "art": "10.3 Amélioration continue",
+   "q": "Veillez-vous à l'amélioration continue de l'efficacité de votre SMQ ?"
+  }
+ ],
+ "iso14001": [
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l’organisme et de son contexte",
+   "q": "Les enjeux internes et externes pertinents sont déterminés en tenant compte de la finalité l'organisme et sa stratégie vis-à-vis de son système de management environnemental"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l’organisme et de son contexte",
+   "q": "Les enjeux déterminés incluent les conditions environnementales impactées par l'organisme ou celles susceptibles d'impacter l'organisme"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et des attentes des parties intéressées",
+   "q": "Les parties intéressées pertinentes sont déterminées dans le cadre du SME"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et des attentes des parties intéressées",
+   "q": "Les exigences des parties intéressées sont prises en compte dans le cadre du SME"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et des attentes des parties intéressées",
+   "q": "Les exigences considérées comme des obligations de conformité sont précisées en tant que telles"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du domaine d’application du système de management environnemental",
+   "q": "Le domaine d'application du SME est précisé en déterminant ses limites et son applicabilité, compte tenu du contexte et de la maîtrise de l'organisme"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du domaine d’application du système de management environnemental",
+   "q": "Toutes les activités, produits et services de l'organisme, qui se situent dans le domaine d'application, sont encadrés par le SME"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du domaine d’application du système de management environnemental",
+   "q": "Le domaine d'application est disponible et tenu à jour sous la forme d'une information documentée"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management environnemental",
+   "q": "Le SME est établi et mis en oeuvre conformément aux exigences de la norme et en tenant compte du contexte et des exigences applicables à l'organisme"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management environnemental",
+   "q": "Le SME est tenu à jour et amélioré de façon continue"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management environnemental",
+   "q": "Les processus nécessaires pour le SME et leur interactions sont déterminés et mis en oeuvre"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management environnemental",
+   "q": "Les processus du SME sont tenus à jour et améliorés de façon continue"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction assume sa responsabilité concernant l'efficacité du SME"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure que la politique et les objectifs sont établis pour le SME et conforme avec son organisme"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure que les processus métiers tiennent compte des exigences spécifiques au SME"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure que les ressources requises pour le SME sont disponibles"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction communique sur l'importance de maintenir un SME efficace et de respecter les exigences associées"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction veille à ce que le système de management de l'environnement produise les résultats attendus"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction encourage, oriente et soutient son personnel"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction promeut l'amélioration"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction soutient les autres rôles pertinents de management"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La direction établit, met en oeuvre et tient à jour une politique environnementale"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale est appropriée aux objectifs et au contexte de l'organisme"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale fournit un cadre pour la mise en place d'objectifs environnementaux"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale inclut les engagements en matière de protection de l'environnement et de prévention de la pollution"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale inclut l'engagement de satisfaire à ses obligations de conformité"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale inclut l'engagement pour l'amélioration continue du SME"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale est tenue à jour sous la forme d'une information documentée"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale est communiquée au sein de l'organisme"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.2 Politique",
+   "q": "La politique environnementale est mise à la disposition des parties intéressées"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Les responsabilités et autorités pertinentes sont attribuées, communiquées et comprises au sein de l'organisme"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Les responsabilités et autorités spécifiques pour maintenir le SME conforme à la norme sont clairement attribuées"
+  },
+  {
+   "chap": "Chap. 5 Leadership",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Les responsabilités et autorités spécifiques pour rendre compte de la performance du SME et notamment de la performance environnementale à la direction sont clairement attribuées"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Généralités"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les processus du SME qui encadrent la maîtrise des aspects environnementaux, des obligations de conformité et la planification des actions d'amélioration sont établis, mis en oeuvre et tenus à jour"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "La planification du SME s'appuie sur les enjeux internes, externes, les exigences des parties intéressées et le domaine d'application du SME"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les risques et opportunités sont déterminés compte tenu des aspects environnementaux, des obligations de conformité, des enjeux internes, externes et des exigences des parties intéressées"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les situations d'urgence potentielles y compris celles susceptibles d’avoir un impact environnemental sont déterminées"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les risques et opportunités sont tenus à jour sous la forme d'une information documentée"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les informations documentées pour preuve du bon fonctionnement des processus sont tenues à jour et conservées"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Aspects environnementaux"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les aspects environnementaux relevant du domaine d'application du SME et dont l'entreprise peut avoir une maîtrise ou une influence sont déterminés dans une perspective de cycle de vie"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les impacts environnementaux associés aux aspects environnementaux sont déterminés"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les changement et évolutions nouvelles ou planifiées ainsi que les activités, produits et services nouveaux ou modifiés sont pris en compte dans l'analyse environnementale"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les conditions anormales ou les situations d'urgence sont prises en compte dans l'analyse environnementale"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les aspects environnementaux qui sont significatifs sont évalués au moyen de critères établis"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les aspects environnementaux significatifs sont communiqués aux différents niveaux et fonctions de l'organisme"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les aspects et les impacts environnementaux sont tenus à jour sous la forme d'une information documentée"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les critères utilisés pour déterminer les aspects environnementaux significatifs sont conservés sous la forme d'une information documentée"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les aspects environnementaux significatifs sont disponible sous la forme d'une information documentée"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Obligations de conformité"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les obligations de conformité relatives aux aspects environnementaux sont déterminées et maîtrisées"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les obligations de conformité sont tenues à jour sous la forme d'une information documentée"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Planification d'actions"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les actions pour traiter les aspects environnementaux significatifs, les obligations de conformité et les risques et opportunités identifiés sont planifiées de façon appropriée"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en œuvre face aux risques et opportunités",
+   "q": "Les actions associées au SME sont intégrées, mises en oeuvre et évaluées au sein des processus"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "Objectifs environnementaux"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "Les objectifs environnementaux sont établis pour les processus pertinents du SME compte tenu des aspects environnementaux significatifs, des obligations de conformité et des risques et opportunités"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "Les objectifs environnementaux sont alignés avec la politique environnementale"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "Les objectifs environnementaux sont mesurables"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "Les objectifs environnementaux sont surveillés"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "Les objectifs environnementaux sont documentés, communiqués et tenus à jour"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "Planification des actions pour atteindre les objectifs environnementaux"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "La planification des objectifs environnementaux tient compte des actions à réaliser, des ressources nécessaires, du responsable des actions, des échéances fixées et de la méthode d'évaluation des résultats attendus"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs environnementaux et planification des actions pour les atteindre",
+   "q": "L'intégration des actions destinées à atteindre les objectifs environnementaux dans les processus métiers est considrée"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "Les ressources nécessaires s à l’établissement, la mise en œuvre, la tenue à jour et l’amélioration continue du SME sont identifiées et allouées"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Les compétences nécessaires des personnes dont le travail a une incidence sur les performances et l'efficacité du SME sont déterminées"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Les compétences des personnes dont le travail a une incidence sur les performances et l'efficacité du SME sont vérifiées sur la base d'une formation ou d'une expérience appropriée"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Des actions sont menées pour permettre au personnel d'acquérir les compétences nécessaires et l'efficacité de ces actions est évaluée"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Des informations documentées appropriées sont conservées comme preuvres des compétences"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation",
+   "q": "L'organisme s'assure que le personnel est sensibilisé à la politique environnementale"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation",
+   "q": "L'organisme s'assure que le personnel est sensibilisé aux aspects environnementaux significatifs et impacts réels ou potentiels associés à leur travail"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation",
+   "q": "L'organisme s'assure que le personnel est sensibilisé à l'importance de leurs contribuation à l'efficacité du SME y compris aux effets bénéfiques d'une amélioration des performances"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation",
+   "q": "L'organisme s'assure que le personnel est conscient des répercussions d'un non-respect des exigences du SME"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Généralités"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Les besoins de communication interne et externe pertinents pour le SME sont déterminés, y compris sur quels sujets communiquer, à quels moments, avec qui et comment"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Les obligations de conformité sont prises en compte lors de l'établissement des processus de communication"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Les informations communiquées sont maîtrisées par l'organisme (cohérence et fiabilité)"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "La réponse aux communications pertinentes sur son SME est assurée"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Les communications sont conservées sous forme d'information documentée"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Communication interne"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Des communications en interne sont effectuées à tous les niveaux, notamment lorsque des changements sont apportés au SME"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Les processus de communication sont maîtrisés par l'organisme afin de permettre aux personnes travaillant sous son contrôle de contribuer à l'amélioration continue"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Communication externe"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Des communications en externe sur les informations pertinentes relatives au SME sont menées compte tenu des processus de communication et des obligations de conformité"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Généralités"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations exigées par la présente norme internationale et les informations jugées nécessaires pour assurer l'efficacité du SME sont disponibles"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Création et mise à jour des informations documentées"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "La création et la mise à jour des informations documentées se font de manière appropriée (identification, description, format, type de support, révision, approbation)"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Maîtrise des informations documentées"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations documentées sont disponibles, maîtrisées et protégées"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations documentées d'origine externe jugées nécessaires sont identfiées et maîtrisées"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les processus nécessaires pour la tenue du SME sont établis, mis en œuvre et tenus à jour"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Des critères de mesure des processus sont établis"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les processus sont réalisés conformément aux critères opérationnels"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les modifications prévues sont maîtrisés, les conséquences des modifications imprévues analysées et des actions pour limiter tout effet négatif sont menées"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les processus externalisés sont maîtrisés ou influencés et le degré de maîtrise ou d'influence est défini au sein du SME"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Des moyens de maîtrise sont établis, de façon appropriée, pour s’assurer que les exigences environnementales relatives aux produits et services sont prises en considération à chaque phase de leur cycle de vie"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les exigences environnementales relatives à l'acquisition des produits et services sont définies"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les exigences environnementales pertinentes sont communiquées aux fournisseurs et aux sous-traitants le cas échéant"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Less informations relatives aux impacts environnementaux significatifs potentiels liés au transport ou à la livraison, à l’utilisation, au traitement en fin de vie et à l’élimination finale des produits et services sont fournies aux parties intéressées, de façon appropriée"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Des informations documentées sont conservées dans une mesure suffisante attestant que les processus ont été réalisés comme prévu"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Les processus nécessaires pour se préparer et répondre aux situations d'urgence potentielles identifiées sont établis, mis en oeuvre et tenus à jour"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Des actions sont planifiées pour prévenir ou atténuer les impacts environnementaux négatifs dus aux situations d'urgence"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Les situations d'urgence réelles sont traitées"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Des actions, appropriées à l’ampleur de l’urgence et à l’impact environnemental potentiel, sont entreprises pour prévenir ou atténuer les conséquences des situations d'urgence"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Des tests en situation d'urgence sont réalisés de façon périodique le cas échéant"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Le ou les processus ainsi que les actions de réponse planifiées, sont revus et révisés notamment après la survenue d'une situation d’urgence ou la réalisation des tests"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Des informations et des formations pertinentes relatives à la préparation et à la réponse aux situations d’urgence, de façon appropriée, sont fournies aux parties intéressées pertinentes, y compris aux personnes effectuant un travail sous le contrôle de l’organisme"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Des informations documentées sont conservées dans une mesure suffisante attestant que les processus relatifs aux situations d'urgence ont été réalisés comme prévu"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Généralités"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "La planification des activités de surveillance et de mesure inclut : \na) ce qu’il est nécessaire de surveiller et mesurer\nb) les méthodes de surveillance, de mesure, d’analyse et d’évaluation nécessaires pour assurer la validité des résultats\nc) les critères et indicateurs de mesure de la performance environnementale\nd) quand la surveillance et la mesure doivent être effectuées\ne) quand les résultats de la surveillance et de la mesure doivent être analysés et évalués"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Des équipements de surveillance et de mesure étalonnés ou vérifiés sont utilisés et entretenus de manière appropriée"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "L'évaluation de la performance et l'efficacité du SME est assurée"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Les informations pertinentes relatives à sa performance environnementale en interne et en externe sont communiquées compte tenu des obligations de conformité et du ou des processus de communication"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Des informations documentées pertinentes comme preuves de résultats des activités de surveillance, de mesure, d'analyse et d'évaluation sont conservées"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Évaluation de la conformité"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Les processus nécessaires à l’évaluation du respect des obligations de conformité sont établis, mis en oeuvre et tenus à jour"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "La fréquence à laquelle la conformité sera évaluée est déterminée"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "La conformité est évaluée et des actions sont entreprises si nécessaire"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "La connaissance et la compréhension de l'état de conformité de l'organisme sont maintenues"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation",
+   "q": "Des informations documentées comme preuves du ou des résultats d’évaluation de la conformité sont conservées"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Généralités"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des audits internes à des intervalles planifiés sont réalisés pour vérifier la conformité du SME aux exigences applicables"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Programme d’audit interne"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des programmes d'audit, couvrant la fréquence, les méthodes, les responsabilités, les exigences de planification et le compte rendu sont planifiés, mis en oeuvre et tenus à jour"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les programmes d'audit tiennent compte de, l’importance environnementale des processus concernés, les changements ayant une incidence sur l’organisme et les résultats des audits précédents"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les critères d'audit et le périmètre de chaque audit sont définis"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des auditeurs sont sélectionnés et les audits sont réalisés en assurant l'objectivité et l'impartialité du processus d'audit"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les résultats des audits sont communiqués à la direction concernée"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des informations documentées comme preuves de la mise en œuvre du programme d'audit et des résultats d'audit sont conservées"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "La revue de direction est réalisée à intervalles planifiés et permet de s'assurer que le SME est toujours approprié, adapté, efficace et en accord avec l’orientation stratégique de l’organisme"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "La revue de direction est planifiée et réalisée en prenant en compte tous les éléments nécessaires énumérés dans la norme :\n\n- L’état des actions de la revue précédente \n- Les modifications des enjeux externes et internes \n- Les modifications de l’état des obligations de conformité \n- Les modifications des AES \n- Les modifications des risques et opportunités \n- L’état des objectifs \n- Les résultats d’inspection \n- L’information des obligations de conformité \n- Les résultats des audits \n- La disponibilité des ressources \n- Les opportunités d’amélioration"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Les éléments de sortie de la revue de direction inclut :\n- les conclusions sur la pertinence, l’adéquation et l’efficacité continues du système de management environnemental\n- les décisions relatives aux opportunités d’amélioration continue\n- les décisions relatives aux éventuels changements à apporter au système de management environnemental, y compris les ressources\n- les actions à mener, si nécessaire, lorsque les objectifs environnementaux n’ont pas été atteints\n- les opportunités d’amélioration de l’intégration du système de management environnemental avec d’autres processus métiers, si nécessaire\n- les éventuelles implications pour l’orientation stratégique de l’organisme"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Des informations documentées comme preuves des conclusions des revues de direction sont conservées"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.1 Généralités",
+   "q": "Les opportunités d'amélioration sont déterminées et sélectionnées et des actions sont entreprises pour atteindre les résultats escomptés du SME"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Les non-conformités détectées sont analysées, corrigées et maîtrisées"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Les impacts environnementaux négatifs sont atténués"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Une revue de la non-conformité est réalisée pour identifier quelles actions menées pour éliminer les causes de la non-conformité"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Les causes de non-conformité sont recherchées et analysées"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "La recherche de non-conformités similaires ou pouvant potentiellement se produire est réalisée pour mettre en place des actions préventives"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Toutes les actions correctives requises pour faire face à ces non-conformités sont mises en oeuvre"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "L'efficacité de toute action corrective mise en œuvre est évaluée"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Les actions correctives sont appropriées aux conséquences des non-conformités"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Des informations documentées sur la nature des non-conformités et actions menées ultérieurement sont conservées"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Non-conformité et actions correctives",
+   "q": "Des informations documentées sur les résultats de toute action corrective sont conservées"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.3 Amélioration continue",
+   "q": "La pertinence, l'adéquation et l'efficacité du SME sont améliorées de façon continue"
+  }
+ ],
+ "iso45001": [
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l’organisme et de son contexte",
+   "q": "Les enjeux internes et externes relatifs à l'entreprise sont-ils identifiés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l’organisme et de son contexte",
+   "q": "Les informations relatives à ces enjeux internes et externes sont-ils surveillés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.1 Compréhension de l’organisme et de son contexte",
+   "q": "Ces enjeux sont-ils pris en compte dans le SMSST ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des travailleurs et autres parties intéressées",
+   "q": "Les parties intéressées pertinentes sont-elles identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des travailleurs et autres parties intéressées",
+   "q": "Toutes les autres parties intéressé sont-elles identifiés?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des travailleurs et autres parties intéressées",
+   "q": "Les exigences des parties intéressées sont-elles identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des travailleurs et autres parties intéressées",
+   "q": "Les exigences des parties intéressées sont-elles surveillées et revues ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.2 Compréhension des besoins et attentes des travailleurs et autres parties intéressées",
+   "q": "Les exigences légales sont elles toutes identifiées?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du périmètre d’application du système de management de la S&ST",
+   "q": "Le domaine d'application du SMSST est-il déterminé ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du périmètre d’application du système de management de la S&ST",
+   "q": "Le domaine  d'application prend t-il en compte les enjeux internes et externes?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du périmètre d’application du système de management de la S&ST",
+   "q": "Le domaine d'application prend t-il en compte les exigences des parties intéressées?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du périmètre d’application du système de management de la S&ST",
+   "q": "Le domaine d'application prend t-il en compte les activités professionnelles?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du périmètre d’application du système de management de la S&ST",
+   "q": "Le domaine d'application inclut t-il toutes les activités sous l'influence de l'entreprise?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.3 Détermination du périmètre d’application du système de management de la S&ST",
+   "q": "Le domaine d'application est-il disponible sous une forme documentée ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les processus ont-ils été identifiés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les risques de ces processus ont-elles été identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les séquences et les interactions de ces processus ont-elles été identifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les critères et les méthodes pour assurer l'efficacité de ces processus ont-ils été déterminé ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les ressources nécessaires à ces processus sont-elles identifiées et à disposition ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les responsabilités ont-elles été définies ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les risques et opportunités liés à ces processus ont été pris en compte, des actions appropriées sont planifiées ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Ces processus sont évalués, mesurés et analysés ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Des actions sont mises en œuvre si les processus ne produisent pas les résultats attendus ?"
+  },
+  {
+   "chap": "Chap. 4 Contexte de l'organisme",
+   "art": "4.4 Système de management de la S&ST",
+   "q": "Les informations relatives à ces processus sont documentées?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction assume et démontre sa responsabilité et son engagement dans l'efficacité du SMSST ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La politique et les objectifs SST sont-ils établis et formalisés ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure t-elle que les exigences du SMSST soient intégrées dans les activités ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure-t-elle de la disponibilité des ressources nécessaires au SMSST?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction communique t-elle sur l'importance de disposer un système efficace et de se conformer aux exigences  et incite-elle les personnes à contribuer à son efficacité ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction s'assure-t-elle que le SMSST atteint les résultats attendus?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction oriente et soutien t-elle les personnes ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction promouvoit-elle l'amélioration ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction soutient-elle les autres personnes ayant un rôle pertinent dans le système, afin de démonter leurs responsabilités ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction promouvoit-elle une culture SST ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction démontre t-elle son engagement relatif au respect des exigences SST ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction protège t-elle les travailleurs contre les représailles ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction applique et établi t-elle un processus pour la consultaion et le participation des travailleurs?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.1 Leadership et engagement",
+   "q": "La direction soutien t-elle l'établissement et le fonctionnnement des comités SST"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique SST est-elle adaptée à la finalité de SLL?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique est-elle établit, revue et mise à jour régulièrement par la direction ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique SST prend-t-elle en compte les exigences réglementaires, légales et celles des PI?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique SST définit-elle un cadre aux objectifs SST ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique SST comprend-elle l'engagement à satisfaire aux exigences et à améliorer en permanence l'efficacité du SMSST ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique SST comprend-elle l'engagement à consulter les travailleurs ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique SST est-elle communiquée au sein de SLL ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.2 Politique de S&ST",
+   "q": "La politique SST est-elle mise à disposition des parties intéressées ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Les responsabilités et autorités de tous les individus de SLL sont-elles clairement formalisées et communiquées au sein de SLL ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Un responsable a-t-il été nommé par la direction pour rendre compte de la performance du SMSST et des opportunités d'amélioration à la direction ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Les rôles et responsabilités sont-ils tenus à jour comme informations documentées?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Les responsabilités des éléments du SMSST dont les travailleurs ont la charge sont-ils assumés par ces derniers?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Le SMSST respecte t-il les exigences de la norme ISO 45001 ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.3 Rôles, responsabilités et autorités au sein de l’organisme",
+   "q": "Les rapports sur la performance du SMSST sont-ils régulièrement présentés?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "Existe-t-il un processus pour la consultaion et la participation des travailleurs?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "Les formations sont-elles fournis aux travailleurs?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "Les méthodes et les temps sont-ils fournis au travailleurs ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "Les informations claires, compréhensibles et pertinentes sont-elles régulièrement fournis?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "Les obstacles à la participation des travailleurs sont-ils déterminés et supprimés ?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné dans la déterminatioin des besoins et attentes des parties intéressées?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en établissant la politique SST?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en  attribuant les rôles, responsabilités et autorités?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en  déterminant comment appliquer et respecter les exigences légales?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en  établissant les objectifs SST?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en  déterminant les mesures de prévention concernant les prestataires externes?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en  déterminant ce qui est nécessaire de surveiller, mesurer et évaluer?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en  planifiant, appliquant et tenant à jour le programme d'audit?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en assurant l'amélioration continue?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en déterminant les méthodes de consultation et de participation?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en identifiant les dangers et en évaluant les risques et opportunités?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en déterminant les actions pour éliminer les dangers et réduire les risques SST?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle faite en déterminant les exigences en termes de compétence, des besoins en formation, des formations et en évaluation des formations?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en déterminant ce qu'il est nécessaire de communiquer et comment le faire?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en déterminant les mesures de prévention, leurs application et utilisation effectives?"
+  },
+  {
+   "chap": "Chap. 5 Leadership et participation des travailleurs",
+   "art": "5.4 Consultation et participation des travailleurs",
+   "q": "La consultation des travailleurs non cadres est elle mentionné en  enquêtant sur les incidents, non-conformités et en déterminant les actions correctives?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les risques et opportunités pour votre organisme sont-ils déterminés ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "La planification du SMSST prend elle en compte les risques et opportunités ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Des actions sont-elles mises en œuvre face aux risques et opportunités ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "L'efficacité de ces actions est-elle mesurée ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les dangers sont-ils pris en compte lors de la détermination des risques et opportunités du SMSST et des résultats escomptés auxquels il faut répondre ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les risques professionnels et autres risques sont-ils pris en compte Lors de la détermination des risques et opportunités du SMSST et des résultats escomptés auxquels il faut répondre ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les opportunités SST et autres opportunités sont-ils pris en compte lors de la détermination des risques et opportunités du SMSST et des résultats escomptés auxquels il faut répondre ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les exigences légales et autres exigences sont-ils pris en compte lors de la détermination des risques et opportunités du SMSST et des résultats escomptés auxquels il faut répondre?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Lors de modifications de l'entreprise, des processus ou du SMSST, les risques et les opportunités sont déterminé et évaluer  à nouveau?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les risques et les opportunités sont-ils évalués avant d'appliquer les modifications?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Une information documentée sur les risques et opportunités existe-elle et est-elle tenu à jour?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "6.1.2.1 Identification des dangers"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Un processus d'identification des dangers est-il établi, appliqué et tenu à jour ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "l'organisation du travail, les facteurs sociaux, le leadership et la culture d'entreprise est-il pris en compte?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les activités et situations habituelles et inhabituelles et les dangers liés aux infrastructures, aux équipements, aux matériaux, aux substances et aux conditions physiques du lieu de travail sont-ils pris en compte?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les activités et situations habituelles et inhabituelles et les dangers liés à la conception, la recherche, le développement, les essais, la production, l'assemblage, la construction, la prestation de service, la maintenance et l'élimination du produit et du service sont-ils pris en compte?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les activités et situations habituelles et inhabituelles et les dangers  liés au facteur humain sont-ils pris en compte?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les activités et situations habituelles et inhabituelles et les dangers liés à la manière comment le travail est réalisé sont-ils pris en compte?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les incidents du passé sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les situations d'urgence potentielles sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les personnes ayant accès au lieu de travail comme travailleurs, prestataires externes, visiteurs sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les personnes ayant accès au lieu de travail qui peuvent être affectés par les activités de l'entreprise sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les personnes non sous l'autorité directe de l'entreprise qui peuvent être affectés par les activités de l'entreprise sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "D'autres aspects Comme la conception des lieux de travail, des processus, des installations, des machines, des équipements, des procédures de travail, de l'organisation du travail y compris leur adaptation aux besoins et capacités des travailleurs impliqués qui peuvent être affectés par les activités de l'entreprise sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "D'autres aspects comme des situations à proximité du lieu de travail causés par des activités sous l'autorité de l'entreprise sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "D'autres aspects non sous l'autorité de l'entreprise sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "D'autres aspects comme les modifications actuelles ou envisagées sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "D'autres aspects comme l'évolution des connaissances sur les dangers sont-ils pris en compte dans le processus d'idenfication des dangers ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "6.1.2.2 Évaluation des risques pour la S&ST et des autres risques liés au système de management de la S&ST"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "L'évaluation des risques professionnels tenu à jour prend t-elle compte l'efficacité des mesures existantes de prévention et de protection"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "L'évaluation des risques professionnels tenu à jour prend t-elle compte l'établissement, l'application, le fonctionnement et la tenue à jour du SMSST"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les méthodes et critères d'évaluation des risques professionnels sont-elles déterminées par rapport au domaine d'application, leur nature, le calendrier, en s'assurant que les méthodes et critères sont proactifs et appliqués systématiquement?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Des informations documentées sur les méthodes et critères d'évaluation sont- elles tenus à jour et conserver?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "6.1.2.3 Évaluation des opportunités pour la S&ST et des autres opportunités liées au système de management de la S&ST"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Un processus pour évaluer et tenir à jour les opportunités d'amélioration de la performance du SMSST et les modifications planifiées, en prenant en compte les opportunités d'adapter le travail, son organisation et son environnement aux travailleurs. Les modifications relatives à l'entreprise, la politique, les processus ou les activités est-il mise en place?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Un processus pour évaluer et tenir à jour les opportunités d'amélioration de la performance du SMSST et les modifications planifiées, en prenant en compte les opportunités d'éliminer les dangers et de réduire les risques SST est-il mise en place?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Un processus pour évaluer les opportunités d'amélioration du SMSST est -il établi, appliqué et tenu à jour ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "6.1.3 Détermination des exigences légales et autres exigences"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Un processus pour déterminer et accéder aux exigences légales actualisées est -il établi, appliqué et tenu à jour ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Un processus pour déterminer et accéder aux exigences légales actualisées et les informations qu'il est nécessaire de communiquer est -il établi, appliqué et tenu à jour ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Un processus pour déterminer et accéder aux exigences légales actualisées lors de l'établissement, l'application, la tenue à jour et l'amélioration continue du SMSST ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Les informations documentées sur ses exigences légales sont-elles tenue à jour et conservées et mises à jour?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "6.1.4 Planification des actions"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Vos actions sont planifiées pour faire face aux risques et opportunités?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Vos actions sont planifiées pour répondre aux exigences légales?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Vos actions sont planifiées pour anticiper et faire face aux situations d'urgence ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Vos actions sont planifiées pour intégrer et appliquer les actions dans les processus du SMSST ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Vos actions sont planifiées pour évaluer l'efficacité de ces actions?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Vos actions sont planifiées pour prendre en compte la hiérarchie des mesures de prévention ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.1 Actions à mettre en oeuvre face aux risques et opportunités",
+   "q": "Vos actions sont planifiées pour prendre en considération les bonnes pratiques, les options technologiques ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "6.2.1 Objectifs de S&ST"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Les objectifs SST sont-ils établis?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "des objectifs cohérents avec la politique SST?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "6.2.2 Planification pour l’atteinte des objectifs de S&ST"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Vos objectifs SST sont-ils en adéquation permanente avec la politique SST de SLL ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Vos objectifs SST sont-ils adaptés à la finalité de SLL?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Vos objectifs SST sont-ils mesurables ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Vos objectifs tiennent-ils compte des exigences applicables ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Vos objectifs SST sont-ils communiqués et tenus à jour autant que nécessaire ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Les modalités (pilote, ressources nécessaires, responsable, échéance, évaluation des résultats) pour surveiller l'atteinte des objectifs sont-elles définies ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Les modifications du SMSST sont-elles planifiées ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "L'objectif de toute modification est pris en compte ainsi que toutes les conséquences en lien possible ?"
+  },
+  {
+   "chap": "Chap. 6 Planification",
+   "art": "6.2 Objectifs de S&ST et planification des actions pour les atteindre",
+   "q": "Les modifications du SMSST prennent-elles en compte les disponibilités des ressources et l'attribution des responsabilités ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.1 Ressources",
+   "q": "La direction assure-t-elle la disponibilité des ressources nécessaires au SMSST, à son amélioration continue ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Déterminez vous les compétences nécessaires des travailleurs qui peuvent influencer ou être influencés par la performance SST ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "les travailleurs sont-ils compétents y compris l'aptitude à identifier les dangers Sur la base d'éducation, de formation initiale et professionnelle et d'expérience?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Des actions sont-ils menées pour acquérir et tenir à jour les compétences nécessaires?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.2 Compétences",
+   "q": "Les informations documentées sur les compétences sont-elles conservées?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation/prise de conscience",
+   "q": "Les travailleurs sont-ils sensibilisés à la politique et aux objectifs SST de SLL ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation/prise de conscience",
+   "q": "Les travailleurs sont-ils sensibilisés sur l'importance de leur contribution à l'efficacité du SMSST ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation/prise de conscience",
+   "q": "Les travailleurs sont-ils sensibilisés aux répercussions et aux conséquences du non-respect des exigences du SMSST ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation/prise de conscience",
+   "q": "Les travailleurs sont-ils sensibilisés aux incidents ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation/prise de conscience",
+   "q": "Les travailleurs sont-ils sensibilisés aux dangers et aux risques professionnels ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.3 Sensibilisation/prise de conscience",
+   "q": "Les travailleurs sont-ils sensibilisés aux dispositions du droit de retrait ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "7.4.1 Généralités"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Un processus de communication en déterminant est -il établir, appliquer et tenu à jour pour déterminer sur quels sujets communiquer ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Un processus de communication en déterminant est -il établir, appliquer et tenu à jour pour déterminer quand communiquer ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Un processus de communication en déterminant est -il établir, appliquer et tenu à jour pour déterminer avec qui communiquer aux différents niveaux de l'entreprise ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Un processus de communication en déterminant est -il établir, appliquer et tenu à jour pour déterminer avec qui communiquer au niveau des externes et visiteurs ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Un processus de communication en déterminant est -il établir, appliquer et tenu à jour pour déterminer avec qui communiquer ( pour les autres parties intéressées) ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Un processus de communication en déterminant est -il établir, appliquer et tenu à jour pour déterminer comment communiquer ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Prenez-vous en compte les aspects relatifs à la diversité lors de l'analyse des besoins en communication Comme sexe, langue, culture, degré d'alphabétisation, handicap ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "L'opinion relatives au SMSST des parties intéressées externes est-elle prise en compte ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Prenez vous en compte ses exigences légales Lors de l'établissement du processus de communication ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Assurer vous que les informations à communiquer soient cohérentes et fiables par rapport au SMSST ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "SLL Répond t-il aux communications pertinentes Concernant le SMSST?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "SLL Conserve t'il les informations documentées pertinentes sur sa communication ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "7.4.2 Communication interne"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Communiquer vous en interne les informations pertinentes du SMSST aux différents niveaux de l'entreprise, y compris les modifications adoptées?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Assurer vous que le processus de communication permet aux travailleurs de contribuer à l'amélioration continue ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "7.4.3 Communication externe"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.4 Communication",
+   "q": "Communiquer vous en externe les informations pertinentes du SMSST ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "7.5.1 Généralités"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Votre SMSST inclut-il les informations documentées exigées par la norme  ISO 45001 et celles que vous avez jugé nécessaires ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "7.5.2 Création et mise à jour des informations documentées"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations documentées sont-elles Identifier et décrire les informations documentées de façon appropriée ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Le format et le support des informations documentées soient appropriés ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations documentées sont-elles passées en revue et valider les informations documentées de façon appropriée?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "7.5.3 Maîtrise des informations documentées"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations documentées sont-elles disponibles, identifiables, conviennent-elles à l'utilisation prévue  et protégées (perte de confidentialité, utilisation inappropriée …)?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations documentaires sont elles approuvées ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Des activités sont-elles mises en œuvre pour maîtriser les informations documentées (distribution, accès, stockage, conservation …) ?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les  activités de stockage et de protection sont-ils appliqués aux information documentées?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les activités de maîtrise des modifications sont-ils appliqués aux information documentées?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les principes de conservation et d'élimination sont-ils appliqués aux information documentées?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les  activités de stockage et de protection sont-ils appliqués aux information documentées?"
+  },
+  {
+   "chap": "Chap. 7 Support",
+   "art": "7.5 Informations documentées",
+   "q": "Les informations documentées d'origine externe sont-elles identifiées et maîtrisées?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "8.1.1 Généralités"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les processus nécessaires à la réalisation des activités sont-ils  appliquer, maîtriser, développées et planifiés pour respecter les exigences du SMSST ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "La planification et la réalisation des activités prend elle compte les exigences relatives aux activités/ services ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les ressources nécessaires  à la réalisation des activités ont-elles été planifiées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les informations documentées sont-elles conservées pour assurer que les processus ont été réalisé comme prévu et pour démontrer la conformité des activités et services aux exigences applicables ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les modifications prévues sont-elles planifiées ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les modifications non prévues sont-elles analysées, des actions sont-elles menées pour limiter tout effet négatif ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "8.1.2 Élimination des dangers et réduction des risques pour la S&ST"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Eliminez vous les dangers en établissant, appliquant et tenant à jour un processus pour l'élimination des dangers et la réduction des risques professionnels?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Eliminez vous les dangers en Remplaçant par des matériaux, processus, opérations ou équipements moins dangereux?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Eliminez vous les dangers en appliquant des protections collectives ou réorganiser le travail ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Planifier, appliquer, maîtriser et tenir à jour des processus nécessaires pour respecter En adaptant le travail aux travailleurs?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Eliminez vous les dangers en appliquant des mesures de prévention administratives y compris la formation ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Eliminez vous les dangers en utilisant des équipements de protection individuelle adéquats ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "8.1.3 Pilotage du changement"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Avez-vous un processus un processus pour l'application et la maîtrise des changements temporaires ou permanents planifiés, y compris pour de nouveaux produits, services ou processus ou leurs modifications ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Avez-vous  un processus pour l'application et la maîtrise des changements temporaires ou permanents planifiés ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Avez-vous un processus pour l'application et la maîtrise des changements temporaires ou permanents planifiés  ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Avez-vous un processus pour l'application et la maîtrise des changements temporaires ou permanents planifiés ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Analysez vous les conséquences des changements imprévus ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "8.1.4.1 Acquisition de biens et services"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Un processus de maîtrise d'acquisition de produits et services est-il tenu à jour et appliqué?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "8.1.4.2 Intervenants extérieurs"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Un processus d'acquisition avec les prestataires externes est-il coordonné afin d'identifier les dangers et d'évaluer et de maîtriser les risques professionnels relatifs aux activités et opérations des prestataires externes pouvant influencer l'entreprise ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Un processus d'acquisition avec les prestataires externes  est-il coordonné pour identifier les dangers et d'évaluer et de maîtriser les risques professionnels relatifs aux activités et opérations de l'entreprise pouvant influencer les travailleurs des prestataires externes ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Un processus d'acquisition avec les prestataires externes  est-il coordonné afin d'identifier les dangers et d'évaluer et de maîtriser les risques professionnels relatifs aux activités et opérations des prestataires externes pouvant influencer d'autres parties intéressées sur le lieu de travail ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "les exigences du SMSST sont-ils respectées par les prestataires externes Et leurs travailleurs ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "les critères SST pour sélectionner les prestataires externes sont-ils définis et appliqués?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "8.1.4.3 Externalisation"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "les fonctions et processus externalisés soient maîtrisés"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Les dispositions d'externalisation respectent-elles les exigences légales ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.1 Planification et maîtrise opérationnelles",
+   "q": "Le type et le degré de maîtrise à appliquer est-il défini dans le SMSST ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Un processus pour la préparation et la réponse aux situations d'urgence potentielles est-il établi, appliqué et tenu à jour, en établissant une réponse planifiée aux situations d'urgence y compris l'administration des premiers secours. ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Un processus pour la préparation et la réponse aux situations d'urgence potentielles est-il établi, appliqué et tenu à jour, en fournissant des formations sur la réponse planifiée ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Un processus pour la préparation et la réponse aux situations d'urgence potentielles est-il établi, appliqué et tenu à jour, en réalisant périodiquement des tests et des exercices pour évaluer la capacité planifiée à répondre ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Un processus pour la préparation et la réponse aux situations d'urgence potentielles est-il établi, appliqué et tenu à jour, en évaluant la performance et, si nécessaire, la révision de la réponse planifiée, y compris après un test et surtout après l'apparition d'une situation d'urgence ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Un processus pour la préparation et la réponse aux situations d'urgence potentielles est-il établi, appliqué et tenu à jour, en communiquant et fournissant des informations pertinentes à tous les travailleurs sur leurs obligations et responsabilités ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "ÉUn processus pour la préparation et la réponse aux situations d'urgence potentielles est-il établi, appliqué et tenu à jour, en communiquer des informations pertinentes aux prestataires externes, aux visiteurs, aux services d'urgence, aux autorités publiques et aux autorités locales, selon le cas ?"
+  },
+  {
+   "chap": "Chap. 8 Réalisation des activités opérationnelles",
+   "art": "8.2 Préparation et réponse aux situations d’urgence",
+   "q": "Un processus pour la préparation et la réponse aux situations d'urgence potentielles est-il établi, appliqué et tenu à jour, en prenant en compte les besoins et les capacités de toutes les parties intéressées pertinentes et en assurant leur implication dans l'élaboration de la réponse planifiée ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "9.1.1 Généralités"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Les activités de surveillance sont-elles définies et mises en œuvre ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Les résultats de cette surveillance sont-ils analysés et évalués ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Déterminer ce qu'il est nécessaire d'inspecter Y compris le degré de respect des exigences légales?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Déterminer ce qu'il est nécessaire d'inspecter Y compris les activités concernées par les dangers, les risques et les opportunités identifiés"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Déterminer ce qu'il est nécessaire d'inspecter Y compris l'avancement vers l'atteinte des objectifs SST"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Déterminer les méthodes utilisées Pour l'inspection, l'analyse et l'évaluation de la performance"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Déterminer les critères utilisés Afin d'évaluer la performance SST"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Déterminer quand l'inspection sera réalisée Critères à prendre en compte : fréquence, échantillonnage, étape du processus"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "S'assurer que les équipements dl'inspection soient étalonnés ou vérifiés Et qu'ils soient correctement utilisés et entretenus. Des exigences légales peuvent concerner l'étalonnage ou la vérification des équipements"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Conserver des informations documentées appropriées Comme preuves des résultats d'inspection, d'analyse et d'évaluation de la performance"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Conserver des informations documentées appropriées Sur la maintenance, l'étalonnage ou la vérification des équipements de mesure"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "9.1.2 Évaluation de la conformité"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Établir, appliquer et tenir à jour un processus pour évaluer le respect des exigences légales"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Déterminer la méthode et la fréquence de l'évaluation"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Evaluer la conformité"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Maintenir la connaissance et la compréhension de sa conformité"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.1 Surveillance, mesure, analyse et évaluation de la performance",
+   "q": "Conserver des informations documentées sur les résultats des évaluations de conformité"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les audits internes sont-ils planifiés et réalisé à des intervalles réguliers ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les critères d'audit et le périmètre sont définis ; les auditeurs sélectionnés sont impartiaux et objectif sur le processus audité ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des informations documentées sont-elles conservées comme preuve des résultats de surveillance ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les résultats des audits sont communiqués à la direction et des actions sont mises en œuvre ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "9.2.2 Programme d’audit interne"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Un programme d'audit interne est-il plannifié, appliqué et tenu à jour?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Le programme d'audit prend t-il en compte l'importance des processus concernés ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les critère d'audit et le dommaine d'applicaion sont-ils défini?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les auditeurs sont-ils selectionnés pour le programme d'audit?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les résultats des audits sont-ils communiqués aux cadres concernés et aux travailleurs impliqués et autres parties intéressées ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Les actions pour remédier aux non-conformités sont-elles menées ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.2 Audit interne",
+   "q": "Des informations documentées sont-elles conservées comme preuve de la mise en œuvre du programme d'audit et des résultats d'audit ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Vos revues de direction sont-elles planifiées et réalisées ? Elle prend en compte tous les éléments listés dans la norme ?"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Passer en revue le SMSST à des intervalles planifiés"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Prendre en considération l'avancement des actions décidées au cours de la revue de direction précédente"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Prendre en considération les informations sur la performance SST Et les tendances sur les risques et opportunités"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Prendre en considération l'adéquation des ressources nécessaires  Pour tenir à jour le SMSST"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Prendre en considération la communication pertinente avec toutes les parties intéressées"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Prendre en considération les opportunités d'amélioration continue Qu'il faut saisir"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Inclure dans les éléments de sortie de la revue de direction des décisions Sur l'adéquation, la pertinence et l'efficacité continues du SMSST pour atteindre les résultats prévus"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Inclure dans les éléments de sortie de la revue de direction les décisions Sur les opportunités d'amélioration continue"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Inclure dans les éléments de sortie de la revue de direction les décisions Sur les modifications à apporter au SMSST"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Inclure dans les éléments de sortie de la revue de direction les décisions Sur les ressources nécessaires"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Inclure dans les éléments de sortie de la revue de direction les décisions Sur les actions éventuelles à réaliser"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Inclure dans les éléments de sortie de la revue de direction les décisions Sur l'amélioration de l'intégration du SMSST avec les processus métier"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Inclure dans les éléments de sortie de la revue de direction les décisions Sur toute implication relative à l'orientation stratégique de l'entreprise"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Communiquer les éléments de sortie de la revue de direction aux travailleurs Et aux représentants des travailleurs, si ceux-ci existent"
+  },
+  {
+   "chap": "Chap. 9 Évaluation des performances",
+   "art": "9.3 Revue de direction",
+   "q": "Les informations documentées des revues de direction sont-elles conservées ?"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.1 Généralités",
+   "q": "Déterminer les opportunités d'amélioration"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.1 Généralités",
+   "q": "Mener des actions Afin d'obtenir les résultats prévus du SMSST"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Établir, appliquer et tenir à jour un processus pour déterminer et gérer les incidents et les non-conformités"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Réagir rapidement lorsqu'un incident ou une non-conformité apparaissent Afin de pouvoir maîtriser et corriger"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Réagir rapidement lorsqu'un incident ou une non-conformité apparaissent  Afin de faire face aux conséquences"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Évaluer la nécessité de mener une action corrective en enquêtant l'incident ou en passant en revue la non-conformité"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Évaluer la nécessité de mener une action corrective en recherchant et analysant les causes de l'incident Ou les causes de la non-conformité"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Évaluer la nécessité de mener une action corrective en recherchant si des incidents et non-conformités similaires se sont produits Ou pourraient se produire"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Passer en revue les évaluations existantes des risques SST ou autres risques, si approprié"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Déterminer et appliquer toutes les actions nécessaires y compris des actions correctives"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Evaluer les risques SST avant de mener des actions"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Passer en revue l'efficacité de toute action menée"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Mener des actions correctives appropriées aux conséquences réelles ou potentielles"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Conserver les informations documentées sur la nature des incidents ou des non-conformités Et de toute action menée"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Conserver les informations documentées sur la nature des incidents ou des non-conformités Et des résultats de toute action menée et de son efficacité"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.2 Événement indésirable, non-conformité et actions correctives",
+   "q": "Communiquer ces informations documentées aux travailleurs et à leurs représentant Et à toute autre partie intéressée"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.3 Amélioration continue",
+   "q": "Améliorer en continue la pertinence, l'adéquation et l'efficacité du SMSST En améliorant la performance SST"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.3 Amélioration continue",
+   "q": "Améliorer en continue la pertinence, l'adéquation et l'efficacité du SMSST En promouvant une culture favorable au SMSST"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.3 Amélioration continue",
+   "q": "Améliorer en continue la pertinence, l'adéquation et l'efficacité du SMSST En promouvant la participation des travailleurs dans l'amélioration continue du SMSST"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.3 Amélioration continue",
+   "q": "Améliorer en continue la pertinence, l'adéquation et l'efficacité du SMSST En communiquant les résultats de l'amélioration continue aux travailleurs et leurs représentants"
+  },
+  {
+   "chap": "Chap. 10 Amélioration",
+   "art": "10.3 Amélioration continue",
+   "q": "Améliorer en continue la pertinence, l'adéquation et l'efficacité du SMSST En tenant à jour et en conservant les informations documentées de l'amélioration continue"
+  }
+ ]
+}

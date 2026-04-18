@@ -1,5 +1,5 @@
 /**
- * Script de seed : crée les 3 profils par défaut.
+ * Script de seed : crée les profils système BuyFlow/Faytek par défaut.
  * Usage : cd backend && node scripts/seedProfils.js
  */
 require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') });
@@ -8,21 +8,49 @@ const Profil = require('../models/Profil');
 
 const SEED_DATA = [
   {
-    nom: 'Administrateur',
+    nom: 'Admin',
     description: 'Accès total à toutes les fonctionnalités',
     isAdmin: true,
     actif: true,
   },
   {
-    nom: 'Gestionnaire',
-    description: 'Gestion complète des non-conformités',
+    nom: 'Responsable Qualité',
+    description: 'Gestion complète des non-conformités et processus',
     isAdmin: false,
     actif: true,
     permissions: {
-      users: { voirListe: true, voir: true },
-      profils: { voirListe: true, voir: true },
-      nonConformites: { voirListe: true, voir: true, creer: true, modifier: true, supprimer: true, valider: true, exporter: true },
-      settings: { voirListe: true, voir: true },
+      nc: { voir: true, creer: true, modifier: true, supprimer: true, valider: true, voirTout: true, exporter: true, voirTableauDeBord: true },
+      rc: { voir: true, creer: true, modifier: true, supprimer: true, valider: true, voirTout: true, exporter: true, voirTableauDeBord: true },
+      process: { voir: true, creer: true, modifier: true, supprimer: true },
+      pa: { voir: true, creer: true, modifier: true, valider: true, voirTout: true, voirTableauDeBord: true },
+      diagnostic: { voir: true, creer: true, modifier: true, supprimer: true, voirTout: true, exporter: true, voirTableauDeBord: true },
+      admin: { gererParams: true },
+    },
+  },
+  {
+    nom: 'Pilote Processus',
+    description: 'Traitement des non-conformités et réclamations affectées à ses processus',
+    isAdmin: false,
+    actif: true,
+    permissions: {
+      nc: { voir: true, modifier: true },
+      rc: { voir: true, modifier: true },
+      process: { voir: true },
+      pa: { voir: true, creer: true, modifier: true },
+      diagnostic: { voir: true },
+    },
+  },
+  {
+    nom: 'Déclarant',
+    description: 'Déclare des non-conformités et réclamations, consulte ses propres fiches',
+    isAdmin: false,
+    actif: true,
+    permissions: {
+      nc: { voir: true, creer: true },
+      rc: { voir: true, creer: true },
+      process: { voir: true },
+      pa: { voir: true },
+      diagnostic: { voir: true, creer: true, modifier: true },
     },
   },
   {
@@ -31,10 +59,11 @@ const SEED_DATA = [
     isAdmin: false,
     actif: true,
     permissions: {
-      users: { voirListe: true, voir: true },
-      profils: { voirListe: true, voir: true },
-      nonConformites: { voirListe: true, voir: true, exporter: true },
-      settings: { voirListe: true, voir: true },
+      nc: { voir: true, voirTout: true, exporter: true, voirTableauDeBord: true },
+      rc: { voir: true, voirTout: true, exporter: true, voirTableauDeBord: true },
+      process: { voir: true },
+      pa: { voir: true, voirTout: true },
+      diagnostic: { voir: true, voirTout: true, exporter: true, voirTableauDeBord: true },
     },
   },
 ];

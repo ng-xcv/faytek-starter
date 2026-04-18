@@ -24,11 +24,11 @@ async function seed() {
     await mongoose.connect(process.env.MONGO_URI);
     console.log("MongoDB connecté");
 
-    // Récupérer le profil Administrateur (créé via seedProfils.js)
-    const adminProfil = await Profil.findOne({ nom: "Administrateur" });
+    // Récupérer le profil Admin (créé via seedProfils.js)
+    const adminProfil = await Profil.findOne({ nom: "Admin" });
     if (!adminProfil) {
       console.error(
-        '❌ Profil "Administrateur" introuvable. Lancer d\'abord : node scripts/seedProfils.js',
+        '❌ Profil "Admin" introuvable. Lancer d\'abord : node scripts/seedProfils.js',
       );
       return;
     }
@@ -41,15 +41,15 @@ async function seed() {
       ) {
         existing.profil = adminProfil._id;
         await existing.save();
-        console.log(`✅ Profil Administrateur lié à ${ADMIN.email}`);
+        console.log(`✅ Profil Admin lié à ${ADMIN.email}`);
       } else {
         console.log(
-          "Compte déjà existant et lié au profil Administrateur, aucune action.",
+          "Compte déjà existant et lié au profil Admin, aucune action.",
         );
       }
     } else {
       await User.create({ ...ADMIN, profil: adminProfil._id });
-      console.log(`✅ Compte créé : ${ADMIN.email} (profil Administrateur)`);
+      console.log(`✅ Compte créé : ${ADMIN.email} (profil Admin)`);
     }
   } catch (err) {
     console.error("Erreur :", err.message);

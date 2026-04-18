@@ -3,7 +3,7 @@ const router = express.Router();
 const Joi = require('joi');
 const multer = require('multer');
 const Settings = require('../models/Settings');
-const { verifyToken, verifyAdmin } = require('../middleware/verifyToken');
+const { verifyToken, verifyPermission } = require('../middleware/verifyToken');
 const { uploadToCloudinary, deleteFromCloudinary, getPublicIdFromUrl } = require('../utils/cloudinary');
 
 // ─── MULTER (memoryStorage pour Cloudinary) ─────────────────────────────────
@@ -63,7 +63,7 @@ router.get('/', async (req, res) => {
 router.put(
   '/',
   verifyToken,
-  verifyAdmin,
+  verifyPermission('admin', 'gererParams'),
   upload.fields([
     { name: 'logo', maxCount: 1 },
     { name: 'favicon', maxCount: 1 },

@@ -2,11 +2,8 @@ const express = require('express');
 const router = express.Router();
 const Joi = require('joi');
 const mongoose = require('mongoose');
-const bcrypt = require('bcrypt');
 const User = require('../models/User');
 const { verifyToken, verifyPermission, verifyAdmin } = require('../middleware/verifyToken');
-
-const BCRYPT_ROUNDS = 12;
 
 // ─── VALIDATION SCHEMAS ─────────────────────────────────────────────────────
 const createSchema = Joi.object({
@@ -35,7 +32,7 @@ const validateObjectId = (req, res, next) => {
 };
 
 // ─── GET / ──────────────────────────────────────────────────────────────────
-router.get('/', verifyToken, verifyPermission('users', 'voirListe'), async (req, res, next) => {
+router.get('/', verifyToken, verifyPermission('admin', 'gererUtilisateurs'), async (req, res, next) => {
   try {
     const users = await User.find().populate('profil').sort({ createdAt: -1 });
     res.json({ users });
@@ -45,7 +42,7 @@ router.get('/', verifyToken, verifyPermission('users', 'voirListe'), async (req,
 });
 
 // ─── GET /:id ───────────────────────────────────────────────────────────────
-router.get('/:id', verifyToken, verifyPermission('users', 'voir'), validateObjectId, async (req, res, next) => {
+router.get('/:id', verifyToken, verifyPermission('admin', 'gererUtilisateurs'), validateObjectId, async (req, res, next) => {
   try {
     const user = await User.findById(req.params.id).populate('profil');
     if (!user) return res.status(404).json({ message: 'Utilisateur introuvable' });
@@ -82,7 +79,7 @@ router.post('/', verifyToken, verifyAdmin, async (req, res, next) => {
 });
 
 // ─── PUT /:id ───────────────────────────────────────────────────────────────
-router.put('/:id', verifyToken, verifyPermission('users', 'modifier'), validateObjectId, async (req, res, next) => {
+router.put('/:id', verifyToken, verifyPermission('admin', 'gererUtilisateurs'), validateObjectId, async (req, res, next) => {
   try {
     const { error, value } = updateSchema.validate(req.body);
     if (error) return res.status(400).json({ message: error.details[0].message });
